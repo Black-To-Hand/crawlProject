@@ -234,13 +234,3 @@ graph TD;
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xishandong/crawlProject&Date)](https://star-history.com/#xishandong/crawlProject&Date)
 
-## 赞助
-
-如果你认为本仓库对你学习爬虫和逆向有所帮助，欢迎赞助作者，请作者喝一杯奶茶~！！
-
-（你的支持可以让作者开心一整天😊）
-
-<div style='display:flex'>
-    <img src="./README_img/wechatPay.JPG" alt="微信支付" style="width: 250px;height: 250px;objec-fit:contain" />
-    <img src="./README_img/alipay.JPG" alt="支付宝支付" style="width: 250px;height: 250px;objec-fit:contain" />
-</div>
